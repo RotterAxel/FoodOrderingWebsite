@@ -1,5 +1,5 @@
 # FoodOrderingWebsite
-A website that lets Employees order Food from the Company Cantina. This project was made for my personal Portfolio, for companies to asses my skills as a Full-Stack Web Developer.
+A website that lets Employees order Food from the Company Cantina. This project was made for my personal Portfolio, for companies to experience my skills as a Full-Stack Web Developer. I also challenged myself to only use Open Source and Free Solutions.
 
 
 FRONTEND | .
